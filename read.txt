@@ -1,4 +1,0 @@
-chmod +x timer.py
-
-
-run './timer.py' without the ' to run the file!
